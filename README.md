@@ -5,9 +5,12 @@ Basic browser-sync implementation in gulp.js
 Clone the repository:
 `https://github.com/ajayak/basic-browser-sync.git`
 
-Install the packages:
+Install the npm packages:
 `npm install` or
 `npm install gulp browser-sync`
+
+Install bower packages:
+`bower install`
 
 Run application:
 `gulp` or `gulp default` or `gulp serve`
