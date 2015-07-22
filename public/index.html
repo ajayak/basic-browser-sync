@@ -1,0 +1,22 @@
+<html ng-app='app'>
+	<head>
+		<title>Angular Sharing Data</title>
+		<link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.css">
+	</head>
+	<body class="container">
+		<div class="page-header">
+			<h1>Angular Demo</h1>
+			<p>Sharing Data between Angular Controllers</p>
+		</div>
+		<div class="jumbotron">
+			<ng-view></ng-view>
+		</div>
+		<script src="vendor/angular/angular.js"></script>
+		<script src="vendor/angular-route/angular-route.js"></script>
+		<script src="app/app.module.js"></script>
+		<script src="app/app.route.js"></script>
+		<script src="app/user/userFactory.js"></script>
+		<script src="app/user/firstController.js"></script>
+		<script src="app/user/lastController.js"></script>
+	</body>
+</html>

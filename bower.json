@@ -1,0 +1,20 @@
+{
+  "name": "NgDataSharing",
+  "version": "0.0.0",
+  "authors": [
+    "Ajay Kumar <ajayak731@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.16",
+    "angular-route": "1.3.16",
+    "bootstrap": "~3.3.5"
+  }
+}

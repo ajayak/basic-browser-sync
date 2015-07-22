@@ -1,0 +1,12 @@
+{
+  "name": "basic-browser-sync",
+  "version": "1.0.0",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ajayak/basic-browser-sync.git"
+  },
+  "description": "Basic browser-sync implementation in gulp.js",
+  "main": "app.js",
+  "author": "Ajay Kumar <ajayak731@hotmail.com>",
+  "license": "ISC"
+}
