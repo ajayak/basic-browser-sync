@@ -1,7 +1,7 @@
 # basic-browser-sync
 Basic browser-sync implementation in gulp.js
 
-# Useage
+# Usage
 Clone the repository:
 `https://github.com/ajayak/basic-browser-sync.git`
 
